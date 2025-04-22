@@ -1,0 +1,21 @@
+.btn_container{
+    background-color: white;
+    color:black;
+    border: 3px solid black;
+    height: 72px;
+    width: 72px;
+    font-size: 24px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.btn_container2{
+    background-color: black;
+    color: white;
+    border: 3px solid black;
+    height: 72px;
+    width: 72px;
+    font-size: 24px;
+    font-weight: 600;
+    cursor: pointer;
+}

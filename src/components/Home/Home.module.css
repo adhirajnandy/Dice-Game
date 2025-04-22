@@ -1,0 +1,44 @@
+.homeWrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;   /* Full viewport height */
+  width: 100%;     /* Full width */
+  flex-direction: column;
+}
+  .container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 1182px;
+    height: 522px;
+  }
+
+  
+  
+  .text_container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+  }
+
+  .topText{
+    padding: 0px;
+    height: 144px;
+    width: 528px;
+    font-size: 96px;
+    font-weight: 700;
+  }
+
+  .play_button{
+    height: 44px;
+    width: 220px;
+    cursor: pointer;
+    font-weight: 600;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    font-size: 16px;
+  }
